@@ -1,0 +1,53 @@
+{
+    "albums": [
+        {
+            "id": 1,
+            "name": "Rummors"
+        },
+        {
+            "id": 2,
+            "name": "Tango in the Night"
+        }, 
+        {
+            "id": 3,
+            "name": "Tusk"
+        }
+    ],
+    "songs": [
+        {   
+            "id": 1,
+            "author": "Fleetwood Mac",
+            "released": 1977,
+            "albumId": 2,
+            "name": "The Chain"
+        },
+        {   
+            "id": 2,
+            "author": "Fleetwood Mac",
+            "released": 1987,
+            "albumId": 3,
+            "name": "Sara"
+        },
+        {   
+            "id": 3,
+            "author": "Fleetwood Mac",
+            "released": 1975,
+            "albumId": 2,
+            "name": "Rhiannon"
+        },
+        {   
+            "id": 4,
+            "author": "Fleetwood Mac",
+            "released": 1987,
+            "albumId": 2,
+            "name": "Seven Wonders"
+        },
+        {   
+            "id": 5,
+            "author": "Fleetwood Mac",
+            "released": 1977,
+            "albumId": 1,
+            "name": "Dreams"
+        }
+    ]
+}
